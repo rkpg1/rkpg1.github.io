@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Temporary post demonstrating post content styles"
 author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+The Quick Brown Fox Jumps Over The Lazy Dog
 
-## Some great heading (h2)
+## What letter is missing from the well-known "Quick Brown Fox" sentence?
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+The fact is, the sentence is a pangram which meaning it contains every letter of the English alphabet at least once. Therefore, no letters are missing from this sentence.
 
 Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
